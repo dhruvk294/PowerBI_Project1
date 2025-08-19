@@ -55,11 +55,13 @@ viii. State-wise Loan Issuance
 ● As sub-grade quality declines (E to G), balances drop drastically, aligning with risk-aware lending practices.
 
 Conclusion:
+
 The analysis of the bank loan dataset using Power BI provides meaningful insights into the lending patterns,
 customer segmentation, and credit risk distribution. It was observed that the majority of loans were disbursed
 to customers with moderate credit grades (A, B, and C), which implies a balanced risk management approach.
 The revolving balance was highest among grade B borrowers, indicating significant ongoing loan activity in
 that segment.
+
 State-wise analysis revealed that California (CA), Florida (FL), and New York (NY) are leading in terms of
 loan distribution, which can guide the bank in making strategic decisions about market targeting. However, a
 considerable portion of the loans is issued to non-verified income borrowers, which raises concerns about risk
