@@ -12,6 +12,26 @@ purposes.
 
 <img width="1374" height="791" alt="image" src="https://github.com/user-attachments/assets/1f3cf1bb-a052-43fa-85fa-b15b4416cb9c" />
 
+<img width="1366" height="837" alt="2" src="https://github.com/user-attachments/assets/35043d42-6e68-405d-a918-a8b07049cd88" />
+
+<img width="1371" height="796" alt="3" src="https://github.com/user-attachments/assets/2524ebb9-dc3f-4dcf-a605-fa32c93ebf8f" />
+
+<img width="1357" height="760" alt="4" src="https://github.com/user-attachments/assets/f9d6597b-ef3b-430e-815c-18e946178bac" />
+
+<img width="1359" height="814" alt="5" src="https://github.com/user-attachments/assets/f6496016-d7dd-4df8-a5b3-a435c0fddc0d" />
+
+<img width="1373" height="793" alt="6" src="https://github.com/user-attachments/assets/ffb7794e-d335-4e77-8bcb-39737d50af9f" />
+
+<img width="1366" height="818" alt="7" src="https://github.com/user-attachments/assets/096f4dba-0eb8-460c-b6c8-85157425770f" />
+
+
+
+
+
+
+
+
+
 Results:
 
 i. Total Loans and Funding
